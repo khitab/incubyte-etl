@@ -1,0 +1,6 @@
+|H|CustomerName|CustomerID|CustomerOpenDate|LastConsultedDate|VaccinationType|DoctorConsulted|State|Country|DateOfBirth|ActiveCustomer
+|D|Manoj|12357|20001012|20121013|MVD|Anand|SA|CA|06031987|A
+|D|Piyush|12348|20100512|20121013|MVD|Bhaskar|TN|IN|06031987|A
+|D|Nawaz|23459|20101018|20121013|MVD|Harshvardhan|WAS|JP|06031987|A
+|D|Pankaj|1345|19781012|20121013|MVD|Jayanti|BOS|JP|06031987|A
+|D|Richa|125|20050212|20121013|MVD|Sundar|VIC|FR|06031987|A

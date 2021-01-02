@@ -4,9 +4,9 @@ For ETL demonstration.
 The file etl.ipynb contains the ETL logic.
 
 
-Output
+# Output
 
-Staging Tables:
+Staging Table:
 ![Staging](https://i.imgur.com/So7784D.jpg)
 
 
